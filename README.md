@@ -2,7 +2,7 @@
 
 
 
-## I'm a  Developer, hacker and Cyber securuty enthusiast!!
+## I'm a  Developer, hacker and Cyber security enthusiast!!
 
 - 🌱 I’m currently learning web security
 - 👯 I’m looking to collaborate with other hackers
